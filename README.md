@@ -1,15 +1,15 @@
 # bookshelf-api-project-dicoding
 
-clone repositori ini 
+### Setup
+
+Clone this repository
 ```
 git clone https://github.com/yeftakun/bookshelf-api-project-dicoding
 ```
-Install paket @hapi/hapi
+Install the @hapi/hapi package and run the application
 ```
 npm install @hapi/hapi
 ```
-Run aplikasi
 ```
 npm run start
 ```
-Melakukan test dengan postman
