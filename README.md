@@ -1,6 +1,6 @@
 # bookshelf-api-project-dicoding
 
-### Setup
+### Setup & Run
 
 Clone this repository
 ```
@@ -13,3 +13,7 @@ npm install @hapi/hapi
 ```
 npm run start
 ```
+
+### About this repo
+
+Project akhir dari kelas Dicoding [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/academies/261)
