@@ -16,4 +16,4 @@ npm run start
 
 ### About this repo
 
-Project akhir dari kelas Dicoding [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/academies/261)
+Final project for Dicoding class: [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/academies/261)
