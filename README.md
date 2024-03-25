@@ -1,7 +1,5 @@
 # bookshelf-api-project-dicoding
 
-<!-- ### Setup & Run
-
 ```
 git clone https://github.com/yeftakun/bookshelf-api-project-dicoding
 npm install @hapi/hapi
